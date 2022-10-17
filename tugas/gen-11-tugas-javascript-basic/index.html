@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kryptonite Stone</title>
+</head>
+<body style="background-image: url('bg.avif'); background-repeat: no-repeat; background-size:105%;">
+    
+
+    <script>
+    function multiply(a, b) {
+        return a * b;
+    }
+
+    const kryptonite = {
+        category : "alien material",
+        code : 010001,
+        characteristics : {
+            color : 'green',
+            translucent : true,
+            radioactiveLevel : 'low'
+        },
+        Usage : function mainUsage(){
+            console.log("Superman Main Weakness")
+        },
+        multiplyRate : multiply
+    }
+
+    const result = kryptonite.multiplyRate(2,2);
+    console.log( 'Kryptonite (' + kryptonite.category+") multiplication rate is : "+ result);
+
+    </script>
+</body>
+</html>
