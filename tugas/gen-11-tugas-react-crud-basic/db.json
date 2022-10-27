@@ -1,0 +1,52 @@
+{
+  "newmutant": [
+    {
+      "name": " Max Eisenhardt",
+      "nickname": "Magneto",
+      "age": "92",
+      "dateofbirth": "1930-06-18",
+      "level": "Epsilon-Beta",
+      "region": "california",
+      "ability": [
+        "magnetism"
+      ],
+      "about": "I Am Magneto",
+      "id": 1
+    },
+    {
+      "name": "Charles Xavier",
+      "nickname": "Prof. Charles Xavier",
+      "age": "90",
+      "dateofbirth": "1932-07-13",
+      "level": "Epsilon-Beta",
+      "region": "california",
+      "ability": [
+        "telepathy"
+      ],
+      "about": "I am Profesor",
+      "id": 2
+    },
+    {
+      "name": "Agus Setiawan Popalia",
+      "nickname": "The Hive",
+      "age": "237322312624764",
+      "dateofbirth": "0001-11-05",
+      "level": "Omega",
+      "region": "newyork",
+      "ability": [
+        "telepathy",
+        "phasing",
+        "invisibility",
+        "probabilityManipulation",
+        "magnetism",
+        "weatherManipulation",
+        "telekinesis",
+        "teleportation",
+        "SuperStrength",
+        "SuperSpeed"
+      ],
+      "about": "I am A God",
+      "id": 3
+    }
+  ]
+}
