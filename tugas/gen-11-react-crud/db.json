@@ -1,0 +1,30 @@
+{
+  "newmutant": [
+    {
+      "name": "Charles Xavier",
+      "nickname": "Prof. Charles Xavier",
+      "age": "90",
+      "dateofbirth": "1932-07-13",
+      "level": "Epsilon-Beta",
+      "region": "california",
+      "ability": [
+        "telepathy"
+      ],
+      "about": "I am Profesor",
+      "id": 1
+    },
+    {
+      "name": "Max",
+      "nickname": "Magneto",
+      "age": "92",
+      "dateofbirth": "1930-07-13",
+      "level": "Epsilon-Beta",
+      "region": "california",
+      "ability": [
+        "magnetism"
+      ],
+      "about": "I am Magneto",
+      "id": 2
+    }
+  ]
+}
