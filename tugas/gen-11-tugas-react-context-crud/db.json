@@ -1,0 +1,28 @@
+{
+  "kingsLanding": [
+    {
+      "id": 1,
+      "name": "Bran",
+      "family": "Stark",
+      "age": "21"
+    },
+    {
+      "name": "Eddark",
+      "family": "Stark",
+      "age": "42",
+      "id": 2
+    },
+    {
+      "name": "Rob",
+      "family": "Stark",
+      "age": "27",
+      "id": 3
+    },
+    {
+      "name": "Jon",
+      "family": "Snow",
+      "age": "27",
+      "id": 4
+    }
+  ]
+}
